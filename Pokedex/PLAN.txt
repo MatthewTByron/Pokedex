@@ -1,4 +1,4 @@
-﻿Be able to search pokemon, select one then save to a database of "my pokemon"
+﻿Be able to search pokemon
 
 Program will pull from csv file and dipslay all pokemon // search by number
 
