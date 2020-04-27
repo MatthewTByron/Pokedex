@@ -1,0 +1,7 @@
+﻿Be able to search pokemon, select one then save to a database of "my pokemon"
+
+Program will pull from csv file and dipslay all pokemon // search by number
+
+be able to add newly discovered pokemon to the dataset and save it
+
+be able to edit existing pokemon and delete them

@@ -1,0 +1,15 @@
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.exe
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.deps.json
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.json
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.dev.json
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.dll
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.pdb
+C:\Users\matthew\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csprojAssemblyReference.cache
+C:\Users\matthew\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\matthew\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfoInputs.cache
+C:\Users\matthew\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfo.cs
+C:\Users\matthew\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.dll
+C:\Users\matthew\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.pdb
+C:\Users\matthew\source\repos\Pokedex\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.genruntimeconfig.cache
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\pokemon.csv
+C:\Users\matthew\source\repos\Pokedex\Pokedex\bin\Debug\netcoreapp3.1\pokemon - Copy.csv
