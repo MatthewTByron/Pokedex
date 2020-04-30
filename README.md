@@ -14,4 +14,4 @@ Option 4: Delete Pokedex entries! - This option allows the user to delete entrie
 
 Option 5: Quit - This option allows the user to exit from the application.
 
-This application can be run by opening the solution in Visual Studio and clciking Run.
+This application can be run by opening the solution in Visual Studio and clicking Run.
